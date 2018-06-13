@@ -1,0 +1,73 @@
+body{
+  font-family: 'Oswald', sans-serif;
+  color: black;
+background-color:
+}
+.navbar {
+  background-color: tranparent !important;
+
+}
+.mynav{
+  background-image: url('../source/lake2.jpg');
+  height: 500px;
+  width: 1450px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#contac{
+  margin-top: 10px;
+  background-image: url(https://images.pexels.com/photos/807598/pexels-photo-807598.jpeg?auto=compress&cs=tinysrgb&h=350);
+
+}
+
+#titulo{
+  font-size: 100px;
+  margin-right: 30%;
+  margin-left: 30%;
+  margin-top: 4%;
+  text-align: center;
+  font-size: 100px;
+  border: double black 2px;
+}
+
+section{
+background-image: url();
+margin-top: 10px;
+}
+
+.galeria{
+  padding-top: 20px;
+  border: grey solid 2px;
+  text-align: center;
+  background-image: url(https://images.pexels.com/photos/963278/pexels-photo-963278.jpeg?auto=compress&cs=tinysrgb&h=350);
+
+}
+
+.galeria img {
+  width: 200px;
+  height : 110px;
+  filter: grayscale(50%);
+  transition: 1s;
+  padding-left: 40px;
+  margin-top: 3px;
+  margin-right: 50px;
+
+}
+
+.galeria img:hover{
+ filter: grayscale(0%);
+ transform: scale(1.1);
+}
+
+.card{
+  margin-left: 30%;
+font-size:
+}
+
+#let{
+  text-align: center;
+border: grey solid 1px;
+background-color: white;
+
+}
